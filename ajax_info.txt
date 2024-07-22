@@ -1,0 +1,17 @@
+<h1>Ajax</h1>
+<p>ajax is a technique for a web browser to request data from a server without the need for </p>
+<p>
+    Line 1
+    Line 2
+    Line 3
+</p>
+<p>
+    Random content line 1
+    Random content line 2
+    Random content line 3
+</p>
+<p>
+    More random content line 1
+    More random content line 2
+    More random content line 3
+</p>
