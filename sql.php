@@ -25,7 +25,7 @@ echo "Table MyGuests created successfully";
 } else {
 echo "Error creating table: " . $conn->error;
 }
-$sql = "";
+//insert data
 $sql = "INSERT INTO MyGuests (firstname, lastname, email)
 VALUES ('John', 'Doe', 'johndoe@gmail.com')";
 
